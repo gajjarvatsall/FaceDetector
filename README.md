@@ -74,7 +74,7 @@ The Face Detecting Program is licensed under the MIT License. See the [LICENSE](
 
 For any questions or inquiries, please contact the project maintainer:
 
-- Name: John Doe
-- Email: john.doe@example.com
+- Name: Vatsal Gajjar
+- Email: vatsalgajjar84@gmail.com
 
 Thank you for using the Face Detecting Program!
